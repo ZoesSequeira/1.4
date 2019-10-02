@@ -6,7 +6,7 @@ public class ControllerScript : MonoBehaviour
 {
    
     int bronzeSupply = 0;
-    int silverSupply = 2;
+    int silverSupply = 0;
     int goldSupply = 0;
     bool spawnGold = false; //should we spawn a gold
     float mineNow;
@@ -32,7 +32,7 @@ public class ControllerScript : MonoBehaviour
         {
             mineNow += miningSpeed;
            
-            if (bronzeSupply < 2)
+            if (bronzeSupply < 4)
             {
                 
                 bronzeSupply++;
