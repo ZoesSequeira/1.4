@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e948621273f6ddd43b1d6b4aa8e97e4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redPrefab: {fileID: 8518874108439869684, guid: ba96265d0f7c8d14eb9f89667d95a3a9,
+      type: 3}
+  - silverPrefab: {fileID: 235846521210983498, guid: 7c8cf9a9d9fa5d34797d0645bea0f935,
+      type: 3}
+  - goldPrefab: {fileID: 3105475977731903530, guid: e2a813dc357924e47a83a2e27da31a08,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
